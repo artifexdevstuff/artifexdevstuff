@@ -6,5 +6,8 @@ ___
 <br />
 ___
 ### Pinned repositories
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=artifexdevstuff&repo=skin-grabber&theme=dracula"></img>
+<div>
+  <a href="https://github.com/artifexdevstuff/skin-grabber">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=artifexdevstuff&repo=skin-grabber&theme=dracula"></img>
+  </a>
+</div>
