@@ -12,3 +12,6 @@ ___
 <a href="https://github.com/artifexdevstuff/skin-grabber">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artifexdevstuff&repo=skin-grabber&theme=dracula" />
 </a>
+<a href="https://github.com/NottCurious/TMIndiaBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NottCurious&repo=TMIndiaBot&theme=dracula" />
+</a>
